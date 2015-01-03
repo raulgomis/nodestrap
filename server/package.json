@@ -1,0 +1,19 @@
+{
+  "name": "beerstrap-nodejs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.10.6",
+    "body-parser": "~1.10.0",
+    "cookie-parser": "~1.3.3",
+    "morgan": "~1.5.0",
+    "serve-favicon": "~2.2.0",
+    "serve-static": "~1.7.1",
+    "debug": "~2.1.0",
+    "ejs": "~1.0.0",
+    "node-compass": "0.2.3"
+  }
+}
